@@ -1,5 +1,5 @@
 # **Multi-Document Question Answering Application**
-![Multi-Document Question Answering Application](images/screenshot.png)
+![Multi-Document Question Answering Application](images/Screenshot.png)
 
 This project is a **Multi-Document Question Answering** web application built using **Streamlit**, **LangChain**, and various Natural Language Processing (NLP) models. The app allows users to upload documents (PDF, DOCX, or TXT) and ask questions related to the content of those documents. The system retrieves the most relevant information based on the user's query, providing answers derived from the text of the uploaded documents.
 
